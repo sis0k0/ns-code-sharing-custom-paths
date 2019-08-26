@@ -1,7 +1,10 @@
 {
   "name": "shared-app",
   "nativescript": {
-    "id": "org.nativescript.sharedapp"
+    "id": "org.nativescript.sharedapp",
+    "tns-android": {
+      "version": "6.0.2"
+    }
   },
   "version": "0.0.0",
   "scripts": {
