@@ -25,6 +25,13 @@
               "src/*.tns.ts",
               "src/*.web.ts",
               "src/*.ts"
+          ],
+          "@app/*": [
+              "src/app/*.android.ts",
+              "src/app/*.ios.ts",
+              "src/app/*.tns.ts",
+              "src/app/*.web.ts",
+              "src/app/*.ts"
           ]
       }
   }

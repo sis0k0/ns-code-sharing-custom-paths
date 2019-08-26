@@ -6,8 +6,12 @@
     "types": [],
     "paths": {
       "@src/*": [
-        "src/*.web",
-        "src/*"
+        "src/*.web.ts",
+        "src/*.ts"
+      ],
+      "@app/*": [
+        "src/app/*.web.ts",
+        "src/app/*.ts"
       ]
     }
   },
